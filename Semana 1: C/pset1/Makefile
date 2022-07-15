@@ -12,3 +12,8 @@ cash:
 	gcc -o cash cash.c
 	./cash
 	rm cash
+
+credit:
+	gcc -o credit credit.c;
+	./credit
+	rm credit
